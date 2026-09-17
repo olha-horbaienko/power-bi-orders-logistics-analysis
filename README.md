@@ -21,5 +21,17 @@ This project focuses on analyzing orders and logistics performance using Power B
 ## Dashboard
 The interactive Power BI report provides a structured view of order performance, delivery efficiency, customer activity, and logistics metrics.
 
+### Financial Overview
+![Financial Overview](01_Financial_Overview.png)
+
+### Logistics Analysis
+![Logistics Analysis](02_Logistics_Analysis.png)
+
+### Employee Performance
+![Employee Performance](03_Employee_Performance.png)
+
+### Employee Sales Details
+![Employee Sales Details](04_Employee_Sales_Details.png)
+
 ## Project File
 `PowerBI_Orders_Logistics_Analysis.pbix`
